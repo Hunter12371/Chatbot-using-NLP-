@@ -1,0 +1,4 @@
+The following libraries are required to run this model:
+1)Numpy
+2)Tensorflow
+3)Nltk
